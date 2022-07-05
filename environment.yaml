@@ -14,3 +14,4 @@ dependencies:
 - qhub-dask
 - pip:
   - kbatch
+  - rio-cogeo
