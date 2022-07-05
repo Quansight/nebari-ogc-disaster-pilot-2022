@@ -1,0 +1,16 @@
+name: ogc-demo
+channels:
+- conda-forge
+dependencies:
+- python >=3.9
+- ipykernel
+- ipywidgets
+- papermill
+- numpy
+- pandas
+- s3fs
+- gdal
+- rasterio
+- qhub-dask
+- pip:
+  - kbatch
