@@ -70,6 +70,4 @@ Note: All times in EDT
 
 ## Getting Help During the Sprint.
 
-ToDo
-
-OGC Gitter - we need two channels one for devops and the other for end user help.
+Use the Gitter channel: [`ogc-developer/qhub-nebari`](https://gitter.im/ogc-developer/qhub-nebari).
