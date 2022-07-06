@@ -4,14 +4,27 @@ Cloud processing of spatial data has incredible promise for rapid, scalable insi
 
 The Open Geospatial Consortium (OGC) and Quansight, building upon the Disaster Pilot initiatives is running a virtual workshop on July 7-8, 2022 to show how Nebari can be used to automate the cloud deployment and maintainance of a spatial data science platform on the cloud of your choice.
 
-## Prerequisites:
+## Getting started:
 
-1. Registration via 
-ToDo
+### Register
 
-## Prepare:
+1. If you don't have a GitHub profile, please create one. See the [GitHub docs](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) for more details.
+2. Register via this [OGC Google Form](https://forms.gle/9dVzraCVKPvr6bPGA) before July 7th.
+3. Register yourself on [this OGC Gitter channel](https://gitter.im/ogc-developer/qhub-nebari).
 
-ToDo
+### Logging into a Quansight pre-configured QHub instance
+
+1. Login to QHub for the first time at (THIS LINK).
+   - For more details on how to login, please see the [QHub Getting Started docs](https://docs.qhub.dev/en/latest/source/user_guide/getting_started.html).
+
+2. If you missed the registration deadline, please reach out to @iameskild on the [Gitter channel](https://gitter.im/ogc-developer/qhub-nebari) for access.
+
+### Deploying your own QHub instance
+
+If you plan to deploy your own QHub instance in the cloud, you will need to have set up:
+
+1. an account for cloud services (with admin-level permissions) from either [Amazon Web Services (AWS)](https://portal.aws.amazon.com/billing/signup) or [Google Cloud Platform (GCP)](https://console.cloud.google.com/); and
+2. a DNS registry account from, e.g., [CloudFlare](https://dash.cloudflare.com/sign-up). Other DNS registries (e.g., [Hover](http://www.hover.com/), [GoDaddy](https://www.godaddy.com), etc.) are supported but may lack some auto-provision features built for CloudFlare.
 
 ## Outline:
 
@@ -57,6 +70,4 @@ Note: All times in EDT
 
 ## Getting Help During the Sprint.
 
-ToDo
-
-OGC Gitter - we need two channels one for devops and the other for end user help.
+Use the Gitter channel: [`ogc-developer/qhub-nebari`](https://gitter.im/ogc-developer/qhub-nebari).
