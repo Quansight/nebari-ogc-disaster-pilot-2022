@@ -2,5 +2,5 @@ name: valid-cog
 image: ghcr.io/iameskild/ogc-demo:latest
 command: 
   - papermill
-  - 04a-submit-batch-job.ipynb
-code: 04a-submit-batch-job.ipynb
+  - 04a_submit_batch_job.ipynb
+code: 04a_submit_batch_job.ipynb
