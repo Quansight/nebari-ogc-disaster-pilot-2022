@@ -1,0 +1,6 @@
+name: valid-cog
+image: ghcr.io/iameskild/ogc-demo:latest
+command: 
+  - papermill
+  - 00X-kbatch-tutorial.ipynb
+code: 00X-kbatch-tutorial.ipynb
