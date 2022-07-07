@@ -8,16 +8,19 @@ The Open Geospatial Consortium (OGC) and Quansight, building upon the Disaster P
 
 ### Register
 
-1. If you don't have a GitHub profile, please create one. See the [GitHub docs](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) for more details.
+1. If you don't have a GitHub profile, please create one. 
+   - See the [GitHub docs](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) for more details.
 2. Register via this [OGC Google Form](https://forms.gle/9dVzraCVKPvr6bPGA) before July 7th.
 3. Register yourself on [this OGC Gitter channel](https://gitter.im/ogc-developer/qhub-nebari).
 
+
 ### Logging into a Quansight pre-configured QHub instance
 
-1. Login to QHub for the first time at (THIS LINK).
+1. Login to QHub for the first time at [esip-ogc.nebari.dev](https://esip-ogc.nebari.dev/]).
    - For more details on how to login, please see the [QHub Getting Started docs](https://docs.qhub.dev/en/latest/source/user_guide/getting_started.html).
 
 2. If you missed the registration deadline, please reach out to @iameskild on the [Gitter channel](https://gitter.im/ogc-developer/qhub-nebari) for access.
+
 
 ### Deploying your own QHub instance
 
