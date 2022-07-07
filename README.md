@@ -31,28 +31,20 @@ If you plan to deploy your own QHub instance in the cloud, you will need to have
 
 ## Outline:
 
-0. Overview - What is Nebari and why should I use it?
-1. How do I access cloud compute via Nebari
-   1. Choosing an instance size
-   2. Jupyter
-   3. Terminal
-   4. VSCode
-   5. Remote Access
-2. Nebari Quickstart
-   1. Navigation
-   2. Environments
-   3. Accessing Cloud Data
-   4. Monitoring
-   5. Sharing your work
+1. [Introduction - What is Nebari and why should I use it?](./01_introduction.ipynb)
+2. Exploration of the features and tools available in Nebari:
+   1. [Nebari 101](./02a_nebari_101.ipynb)
+   2. [Using Dask on Nebari](./02b_using_dask_on_nebari.ipynb)
 3. Example Spatial Workflows
-   1. Example 1
-   2. Example 2
-   3. Example 3
+   1. [Bathymetric Explorer](./03a_bathymetric_explorer.ipynb)
+   2. [Visualizing Gridded Data (WaveWatch)](./03b_visualize_wavewatch.ipynb)
+   3. [Exploring the National Water Model](./03c_exploring_national_water_model.ipynb)
+   4. [Analyzing Landsat 8 Collection 2 Level 2 Data](./03d_analyzing_landsat-8-c2-l2.ipynb)
 4. Useful Cloud Tools
-   1. Scaling your analysis with Dask
-   2. Running and scheduling batch workflows with KBatch
-   3. Creating and sharing an interactive application with Panel
-5. Deploy your own Nebari
+   1. [Running and scheduling batch workflows with KBatch](./04a_submit_batch_job.ipynb)
+   2. [Creating and sharing an interactive application](https://www.nebari.dev/tutorials/creating-cds-dashboard)
+   3. [Creating and using catalogs with Intake](./04c_data_catalogs_with_intake.ipynb)
+5. [Deploy your own Nebari](./05_deploy_nebari.ipynb)
    1. Configuration & Installation
    2. Estimating the cost of your deployment
    3. Managing your users
@@ -61,7 +53,7 @@ If you plan to deploy your own QHub instance in the cloud, you will need to have
 
 ## Schedule:
 
-Note: All times in EDT
+*Note: All times in EDT*
 
 - July 7th 
   - 10:00am-12:00pm Using Nebari for Spatial Workflows (Sections 0-3)
