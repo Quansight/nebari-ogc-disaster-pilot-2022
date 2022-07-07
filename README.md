@@ -21,6 +21,8 @@ The Open Geospatial Consortium (OGC) and Quansight, building upon the Disaster P
 
 2. If you missed the registration deadline, please reach out to @iameskild on the [Gitter channel](https://gitter.im/ogc-developer/qhub-nebari) for access.
 
+> NOTE: For those that signed up but don't have (or didn't provide) a GitHub username, you can sign in with the email you provided with password `quansight`.
+
 
 ### Deploying your own QHub instance
 
