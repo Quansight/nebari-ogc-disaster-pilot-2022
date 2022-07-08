@@ -4,3 +4,6 @@ command:
   - papermill
   - 04a_submit_batch_job.ipynb
 code: 04a_submit_batch_job.ipynb
+env: 
+  AWS_ACCESS_KEY_ID: "key"
+  AWS_SECRET_ACCESS_KEY: "secret"
